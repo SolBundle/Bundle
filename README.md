@@ -12,7 +12,7 @@ The goal of the bot is to facilitate easier RAY ID trading volume by distributin
 ## Usage Instructions
 1. Clone the Repository:
    ```bash
-   [git clone <(https://github.com/SolBundle/Bundle)>]
+   [git clone <(https://github.com/SolBundle/Volume-bot)>]
    
 2. Open Terminal and execute the following 
    pip install -r requirements.txt
