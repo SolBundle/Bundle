@@ -39,5 +39,6 @@ in the root directory of your repository.
 ### Business inquiries:
 Telegram : t.me/jskhasiasda
 
-This project is for educational purposes only. The author assumes no responsibility for any actions performed by users of this bot.
+This project is for educational purposes only.
+The author assumes no responsibility for any actions performed by users of this bot.
 
