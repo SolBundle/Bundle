@@ -34,3 +34,9 @@ git clone https://github.com/SolBundle/Volume-Bot.git
    git add README.md
    git commit -m "Add project README"
    git push
+
+### Business inquiries:
+Telegram : t.me/jskhasiasda
+
+This project is for educational purposes only. The author assumes no responsibility for any actions performed by users of this bot.
+
