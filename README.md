@@ -5,7 +5,7 @@ The goal of the bot is to facilitate easier RAY ID trading volume by distributin
 
 ## Download the Bot
 
-[![Download Button](https://img.shields.io/badge/Download-ZIP-green?style=for-the-badge&logo=download)](https://github.com/SolBundle/Volume-Bot/archive/refs/heads/main.zip)
+[![Download Button](https://img.shields.io/badge/Download-ZIP-green?style=for-the-badge&logo=download)](https://github.com/SolBundle/solvol/archive/refs/heads/main.zip)
 
 ## Features
 - **Automated Wallet Creation**: Automatically generate multiple wallets to facilitate trading.
@@ -17,7 +17,7 @@ The goal of the bot is to facilitate easier RAY ID trading volume by distributin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SolBundle/Volume-Bot.git
+git clone https://github.com/SolBundle/solvol.git
 
    
 2. Open Terminal and execute the following 
