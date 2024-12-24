@@ -28,7 +28,8 @@ git clone https://github.com/SolBundle/Volume-Bot.git
 
 
 ### Instructions to Use
-1. Copy this content into a file named `README.md` in the root directory of your repository.
+1. Copy this content into a file named `README.md`-
+in the root directory of your repository.
 2. Commit and push the changes to GitHub:
    ```bash
    git add README.md
