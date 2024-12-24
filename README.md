@@ -3,21 +3,15 @@
 ## Objective
 The goal of the bot is to facilitate easier RAY ID trading volume by distributing SOL assets across multiple wallets and engaging in perpetual buy and sell transactions on Raydium.
 
----
-
 ## Download the Bot
 
 [![Download Button](https://img.shields.io/badge/Download-ZIP-green?style=for-the-badge&logo=download)](https://github.com/SolBundle/Volume-Bot/archive/refs/heads/main.zip)
-
----
 
 ## Features
 - **Automated Wallet Creation**: Automatically generate multiple wallets to facilitate trading.
 - **Advanced SOL Distribution**: Allocate SOL to new wallets.
 - **Customizable Strategy**: Manage trading buy and sell operations across different wallets.
 - **Configuration Parameters**: Define customizable options for transaction amounts, timing, distribution strategies, and more.
-
----
 
 ## Usage Instructions
 
